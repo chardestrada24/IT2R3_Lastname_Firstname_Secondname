@@ -1,2 +1,2 @@
-# IT2R3_Lastname_Firstname_Secondname
-Web System and Technologies [2019-2020]
+# [2019-2020] IT2R3 - 2nd Semester
+Web System and Technologies
